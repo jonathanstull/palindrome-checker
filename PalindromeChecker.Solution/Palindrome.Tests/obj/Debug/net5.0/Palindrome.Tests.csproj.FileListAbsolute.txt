@@ -1,0 +1,5 @@
+/Users/jonathanstull/Desktop/Epicodus/palindrome-checker/PalindromeChecker.Solution/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.csprojAssemblyReference.cache
+/Users/jonathanstull/Desktop/Epicodus/palindrome-checker/PalindromeChecker.Solution/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanstull/Desktop/Epicodus/palindrome-checker/PalindromeChecker.Solution/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.AssemblyInfoInputs.cache
+/Users/jonathanstull/Desktop/Epicodus/palindrome-checker/PalindromeChecker.Solution/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.AssemblyInfo.cs
+/Users/jonathanstull/Desktop/Epicodus/palindrome-checker/PalindromeChecker.Solution/Palindrome.Tests/obj/Debug/net5.0/Palindrome.Tests.csproj.CoreCompileInputs.cache
